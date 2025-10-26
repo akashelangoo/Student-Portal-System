@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "app.recommender.url",
+      "type": "java.lang.String",
+      "description": "URL of the recommender service"
+    }
+  ]
+}
